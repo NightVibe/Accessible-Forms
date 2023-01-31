@@ -185,6 +185,7 @@ form{
 input, label, textarea{
 	display: block;
 	width: calc(100% - 2em);
+	margin-left: 9px;
 }
 
 input, textarea, select{
